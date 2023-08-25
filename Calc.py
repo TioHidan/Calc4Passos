@@ -11,3 +11,5 @@ elif esc==2 :
   print("A subtração desses dois numeros é de : ",num-num1) 
 elif esc==3 :
   print("A Multiplicação desses dois numeros é de : ",num*num1) 
+elif esc==4 :
+  print("A Divisão desses dois numeros é de : ",num/num1) 
