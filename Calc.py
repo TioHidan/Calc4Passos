@@ -1,0 +1,6 @@
+print("------------------------")
+print("Calculadora em 4 passos")
+print("------------------------")
+num= int (input("Digite o Primeiro numero : "))
+num1= int (input("Digite o Segundo numero : "))
+print("A soma desses dois numeros é de : ",num+num1)
