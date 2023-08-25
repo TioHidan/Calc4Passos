@@ -9,3 +9,5 @@ if esc==1 :
   print("A soma desses dois numeros é de : ",num+num1)
 elif esc==2 :
   print("A subtração desses dois numeros é de : ",num-num1) 
+elif esc==3 :
+  print("A Multiplicação desses dois numeros é de : ",num*num1) 
